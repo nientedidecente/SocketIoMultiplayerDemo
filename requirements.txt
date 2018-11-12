@@ -8,3 +8,4 @@ python-engineio==2.3.2
 python-socketio==2.0.0
 six==1.11.0
 Werkzeug==0.14.1
+uwsgi
